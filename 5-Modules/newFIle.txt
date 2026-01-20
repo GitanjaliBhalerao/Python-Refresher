@@ -1,0 +1,2 @@
+Hello Everyone
+Welcome to today's python class
