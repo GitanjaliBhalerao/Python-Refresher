@@ -109,12 +109,6 @@ Welcome to the **Python Refresher Course** repository! 🎉 This course is desig
 
 ---
 
-### Prerequisites  
-
-Ensure you have the following installed on your computer:  
-- [Git](https://git-scm.com/downloads)  
-🎥 Watch the tutorial here:
- [How to install Git](https://www.youtube.com/watch?v=C2x4OKZLS_E)
-- [Python 3.x](https://www.python.org/downloads/)  
+ 
 
 
