@@ -1,0 +1,2 @@
+============================Telematics health summary =========================================
+max_temp is 109.8Overheat events is 3 are [109.8, 106.8, 107.6]
